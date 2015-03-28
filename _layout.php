@@ -9,7 +9,7 @@
   <meta name="keyword" content="<?php echo $config->keyword?>">
   <title><?php echo $config->sitename;?></title>
 
-  <link rel="shortcut icon" href="/vui16.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="/themes/t10ui/favicon.png" type="image/x-icon">
   <link rel="search" type="application/opensearchdescription+xml" title="<?php echo $config->sitename;?>" href="/util/opensearch">
 
   <link type="text/css" href="/themes/t10ui/css/bootstrap.min.css" rel="stylesheet">
