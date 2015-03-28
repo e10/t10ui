@@ -49,5 +49,5 @@
     </div>
   </div>
 </div>
-
+<p>Powered by <a href="http://vidzapper.com">VidZapper</a></p>
 <?php include("/_scripts.php"); ?>
